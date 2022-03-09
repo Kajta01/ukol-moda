@@ -4,7 +4,7 @@ import './style.css';
 
 const App = () => (
   <>
-    <p>Tady asi něco bude</p>
+    <p>Tady asi něco bude </p>
   </>
 );
 
